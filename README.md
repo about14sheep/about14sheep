@@ -3,7 +3,7 @@
 
 ### I make stuff, mostly web stuff. 
 ### This is where I keep my stuff. 
-### You can peruse the stuff below. 
+### If you need stuff made, email me. 
 
 
 ![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)
