@@ -1,7 +1,7 @@
 ![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)
 
 
-### Check out my Sponsor profile!
+### I make stuff, mostly web stuff. See some stuff below and check my Sponsor profile!
 
 <!--
 **about14sheep/about14sheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
