@@ -2,8 +2,8 @@
 
 
 ### I make stuff, mostly web stuff. 
-### This is where I keep my stuff. 
-### If you need stuff made, email me. 
+### Some of my stuff is open source.
+### This is where I keep that stuff. 
 
 
 ![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)![image](https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif)
