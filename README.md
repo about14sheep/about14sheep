@@ -9,6 +9,7 @@
 </p>
 <br />
 <p align="center"><samp font-weight="bold">Check out my Sponsor Profile!</samp></p>
+<br />
 <p align="center">
   <a target="_blank" href="https://github.com/about14sheep?tab=repositories">
     <img src="https://img.shields.io/github/stars/about14sheep?style=social"></img>
