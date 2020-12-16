@@ -10,10 +10,17 @@
 <br />
 <p align="center"><samp font-weight="bold">Check out my Sponsor Profile!</samp></p>
 <p align="center">
+  <a target="_blank" href="https://github.com/about14sheep?tab=repositories">
+    <img src="https://img.shields.io/github/stars/about14sheep?style=social"></img>
+  </a>
+  <a target="_blank" href="https://twitter.com/about14sheep">
+    <img src="https://img.shields.io/twitter/follow/about14sheep?label=follow&style=social"></img>
+  </a>
   <a target="_blank" href="https://github.com/sponsors/about14sheep">
     <img src="https://img.shields.io/github/sponsors/about14sheep?style=social"></img>
   </a>
 </p>
+
 
 <!--
 **about14sheep/about14sheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
