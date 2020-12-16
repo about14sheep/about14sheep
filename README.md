@@ -1,3 +1,4 @@
+<br />
 <p align="center">
   <img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif">
 </p>
@@ -13,9 +14,6 @@
 <p align="center">
   <a target="_blank" href="https://github.com/about14sheep?tab=repositories">
     <img src="https://img.shields.io/github/stars/about14sheep?style=social"></img>
-  </a>
-  <a target="_blank" href="https://twitter.com/about14sheep">
-    <img src="https://img.shields.io/twitter/follow/about14sheep?label=follow&style=social"></img>
   </a>
   <a target="_blank" href="https://github.com/sponsors/about14sheep">
     <img src="https://img.shields.io/github/sponsors/about14sheep?style=social"></img>
