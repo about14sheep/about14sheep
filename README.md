@@ -8,7 +8,7 @@
   <img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif">
 </p>
 <br />
-<p align="center">Check out my Sponsor Profile!</p>
+<p align="center"><samp font-weight="bold">Check out my Sponsor Profile!</samp></p>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/austin-burger/">
     <img src="https://img.shields.io/github/sponsors/about14sheep?style=social"></img>
