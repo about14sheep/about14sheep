@@ -10,7 +10,7 @@
 <br />
 <p align="center"><samp font-weight="bold">Check out my Sponsor Profile!</samp></p>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/austin-burger/">
+  <a target="_blank" href="https://github.com/sponsors/about14sheep">
     <img src="https://img.shields.io/github/sponsors/about14sheep?style=social"></img>
   </a>
 </p>
