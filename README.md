@@ -9,7 +9,7 @@
   <img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif">
 </p>
 <br />
-<p align="center"><samp font-weight="bold">Check out my Sponsor Profile and LinkedIn!</samp></p>
+<p align="center"><samp font-weight="bold">Check out my Sponsor Profile!</samp></p>
 <br>
 <p align="center">
     <a target="_blank" href="https://github.com/sponsors/about14sheep">
