@@ -10,13 +10,22 @@
   <img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif">
 </p>
 <br />
-<p align="center"><samp font-weight="bold">Connect with me on LinkedIn!</samp></p>
+<p align="center"><samp font-weight="bold">Check out my Social Media!</samp></p>
 <br />
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/austin-burger/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
-  </a>
-</p>
+<div>
+  <p align="center">
+    <a href="https://leetcode.com/about14sheep/">
+      <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="107" height="28" />
+    </a>
+  </p>
+  <br />
+  <p align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/austin-burger/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+    </a>
+  </p>
+</div>
+<br />
 <br />
 <br />
 <!--
