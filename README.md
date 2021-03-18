@@ -19,7 +19,7 @@
     </a>
   </p>
   <br />
-  <p align="center"><samp font-weight="bold">Let's tale DSnA!</samp></p>
+  <p align="center"><samp font-weight="bold">Let's talk DSnA!</samp></p>
   <br />
   <p align="center">
     <a href="https://leetcode.com/about14sheep/">
