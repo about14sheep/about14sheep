@@ -18,7 +18,9 @@
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
     </a>
   </p>
-  <br />
+</div>
+<br />
+<div>
   <p align="center"><samp font-weight="bold">Let's talk DSnA!</samp></p>
   <br />
   <p align="center">
