@@ -11,7 +11,7 @@
   <img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif"><img src="https://github.com/about14sheep/about14sheep/blob/master/hack_icon.gif">
 </p>
 <br />
-<p align="center"><samp font-weight="bold">Author of the award winning website learnrecursion.com!</samp></p>
+<p align="center"><samp font-weight="bold">Creator of the award winning website learnrecursion.com!</samp></p>
 <p align="center"><samp font-weight="bold">You can connect with me on LinkedIn!</samp></p>
 <br />
 <div>
