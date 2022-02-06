@@ -12,14 +12,5 @@
 </p>
 <br />
 <p align="center"><samp font-weight="bold">Creator of the award winning website learnrecursion.com!</samp></p>
-<p align="center"><samp font-weight="bold">You can connect with me on LinkedIn!</samp></p>
-<br />
-<div>
-  <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/austin-burger/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
-    </a>
-  </p>
-</div>
 <br />
 <br />
